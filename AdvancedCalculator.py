@@ -1,5 +1,5 @@
 # Calculator program with string input support
-# Written by Alireza Khaleghi
+# Implemented by Alireza Khaleghi
 
 import re
 
